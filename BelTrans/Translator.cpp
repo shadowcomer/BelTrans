@@ -3,6 +3,7 @@
 using std::fstream;
 using std::cout;
 using std::endl;
+using std::string;
 
 Translator::Translator(void)
 {
